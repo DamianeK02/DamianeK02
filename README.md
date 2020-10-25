@@ -5,8 +5,8 @@
 
 
 
-- 🌱 I’m currently working on [block listener](https://github.com/DamianeK02/BlockListener)
-- 🌱 I’m currently learning <b>C#</b>
+- 🌱 I’m currently working on [Quiz Jam game](https://github.com/DamianeK02)
+- 🌱 I’m currently learning <b>Kotlin</b>
 - 🌱 I’m working on: <b>MSI gv62 7rd</b>
 - 🌱 I’m working on : <b>Kali linux 2020.1</b>
 
@@ -26,3 +26,4 @@
 | <img height="30px" src="https://cdn.svgporn.com/logos/visual-studio.svg">  | <img height="30px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/android.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/eclipse.svg"> |
 
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DamianeK02)](https://github.com/anuraghazra/github-readme-stats)
