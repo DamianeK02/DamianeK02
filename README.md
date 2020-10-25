@@ -1,6 +1,6 @@
 <div align="center">
    <h1>𝗛𝗶 𝘁𝗵𝗲𝗿𝗲, 𝗜'𝗺 𝗗𝗮𝗺𝗶𝗮𝗻</h1>
-</div>
+
 <br>
 
 
@@ -27,3 +27,4 @@
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DamianeK02)](https://github.com/anuraghazra/github-readme-stats)
+</div>
