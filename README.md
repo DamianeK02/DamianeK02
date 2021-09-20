@@ -5,11 +5,8 @@
 
 
 
-- 🌱 I’m currently working on [Quiz Jam game](https://github.com/DamianeK02)
+- 🌱 I’m currently working on [SwipestAdminPanel](https://github.com/DamianeK02)
 - 🌱 I’m currently learning <b>Kotlin</b>
-- 🌱 I’m working on: <b>MSI gv62 7rd</b>
-- 🌱 I’m working on : <b>Kali linux 2020.1</b>
-
 
 
 #### 𝗧𝗲𝗰𝗵 𝗜 𝘂𝘀𝗲
