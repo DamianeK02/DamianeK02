@@ -5,8 +5,8 @@
 
 
 
-- 🌱 I’m currently working on [SwipestAdminPanel](https://github.com/DamianeK02)
-- 🌱 I’m currently learning <b>Kotlin</b>
+- 🌱 I’m currently working on [Swipest] mobile app(https://www.swipest.pl/)
+- 🌱 I’m currently learning <b>Dart / Flutter</b> technology
 
 
 #### 𝗧𝗲𝗰𝗵 𝗜 𝘂𝘀𝗲
