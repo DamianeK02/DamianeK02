@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently working on [Swipest] mobile app(https://www.swipest.pl/)
+- 🌱 I’m currently working on [Swipest](https://www.swipest.pl/) mobile app 
 - 🌱 I’m currently learning <b>Dart / Flutter</b> technology
 
 
