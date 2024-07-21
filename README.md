@@ -1,27 +1,9 @@
+| React | Flutter | Python |
+|-------|---------|--------|
+| Projekty front-endowe realizowane z użyciem biblioteki React. | Projekty front-endowe realizowane z użyciem Flutter. | Projekty front-endowe realizowane z użyciem Python. |
+| - [Projekt 1 - currency-converter-app](https://github.com/DamianeK02/currency-converter-app) | - [Projekt 1 - 0](https://github.com/DamianeK02/currency-converter-app) | - [Projekt 1 - 0](https://github.com/DamianeK02/currency-converter-app) |
+| - [Projekt 2 - movie-recommendation-app](https://github.com/DamianeK02/movie-recommendation-app) | - [Projekt 2 - 0](https://github.com/DamianeK02/movie-recommendation-app) | - [Projekt 2 - 0](https://github.com/DamianeK02/movie-recommendation-app) |
 <div align="center">
-   <h1>𝗛𝗶 𝘁𝗵𝗲𝗿𝗲, 𝗜'𝗺 𝗗𝗮𝗺𝗶𝗮𝗻</h1>
-
 <br>
 
-
-
-- 🔥 I’m currently working on [Swipest](https://www.swipest.pl/) mobile app 
-- 🧠 I’m currently learning <b>Dart / Flutter</b> technology
-
-
-#### 𝗧𝗲𝗰𝗵 𝗜 𝘂𝘀𝗲
-
-| 𝗛𝗧𝗠𝗟5  | 𝗖𝗦𝗦3 | 𝗝𝗦 | 𝗖++ | 𝗖# | 𝗝𝗮𝘃𝗮 | 𝗣𝘆𝘁𝗵𝗼𝗻 |
-| ------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- |
-| <img height="30px" src="https://cdn.svgporn.com/logos/html-5.svg">  | <img height="35px" src="https://cdn.svgporn.com/logos/css-3.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/javascript.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/c-plusplus.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/c-sharp.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/java.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/python.svg"> |
-
-
-#### 𝗧𝗼𝗼𝗹𝘀 𝗜 𝘂𝘀𝗲
-
-| 𝗩𝗦 𝟮𝟬𝟭𝟵  | 𝗩𝗦 𝗖𝗼𝗱𝗲 | 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗦𝘁𝘂𝗱𝗶𝗼 | 𝗘𝗰𝗹𝗶𝗽𝘀𝗲 |
-| ------------- | ------------- |------------- | ------------- |
-| <img height="30px" src="https://cdn.svgporn.com/logos/visual-studio.svg">  | <img height="30px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/android.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/eclipse.svg"> |
-
-
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DamianeK02)](https://github.com/anuraghazra/github-readme-stats)
-</div>
